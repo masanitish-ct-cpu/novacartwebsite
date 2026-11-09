@@ -191,3 +191,8 @@ Admin:
 - Product images are loaded from Unsplash (requires internet).
 - Card payments are simulated (no real provider).
 - Change admin credentials after first login in production.
+-NovaCart - Login feature development
+## Development Updates
+
+- Added login feature development.
+- Working on NovaCart improvements.
